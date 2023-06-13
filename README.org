@@ -1,0 +1,10 @@
+* sketch
+
+A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vydd/sketch.git   |
+| commit  | aea3f95  |
+| systems | sketch |
+|---------+-------------------------------------------|
+
